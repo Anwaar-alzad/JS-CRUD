@@ -16,7 +16,6 @@ A fully functional **Product Management App** built with **HTML**, **CSS**, **Ja
 - **Live total price calculator** (Price + Taxes + Ads - Discount)
 - **LocalStorage support** (No backend required)
 - **Form validation** using Bootstrap classes
-- **Responsive design** using Bootstrap grid system
 - **Search feature** by title or category
 - **Single record creation** with a `count` field for inventory quantity
 
